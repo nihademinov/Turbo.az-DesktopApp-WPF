@@ -1,0 +1,653 @@
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.exe
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.deps.json
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.runtimeconfig.json
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.AssemblyReference.cache
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.cache
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfoInputs.cache
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfo.cs
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CoreCompileInputs.cache
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\refint\Turbo.az Desktop App.dll
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.genruntimeconfig.cache
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ref\Turbo.az Desktop App.dll
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.g.cs
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.lref
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.baml
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.g.resources
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ResourceDictionary.baml
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.baml
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.g.cs
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.baml
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpInsideElanPage.g.cs
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpInsidePopularQuestionPage.g.cs
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPage.g.cs
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpInsideElanPage.baml
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpInsidePopularQuestionPage.baml
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPage.baml
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.g.cs
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.baml
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.g.cs
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.baml
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.g.cs
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.baml
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.g.cs
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\BiznesLoginPage.g.cs
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.baml
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\BiznesLoginPage.baml
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.g.cs
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.baml
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.g.cs
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.baml
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.g.cs
+C:\Users\aminn\source\repos\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.baml
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.exe
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.deps.json
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.runtimeconfig.json
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ResourceDictionary.baml
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.g.cs
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpInsideElanPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpInsidePopularQuestionPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\BiznesLoginPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.cache
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.lref
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.baml
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.baml
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.baml
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.baml
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.baml
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpInsideElanPage.baml
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpInsidePopularQuestionPage.baml
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPage.baml
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.baml
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\BiznesLoginPage.baml
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.baml
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.baml
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.baml
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.baml
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.g.resources
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfo.cs
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\refint\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.genruntimeconfig.cache
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ref\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CopyComplete
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.exe
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.deps.json
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.runtimeconfig.json
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.AssemblyReference.cache
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ResourceDictionary.baml
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.g.cs
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.g.cs
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.g.cs
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.g.cs
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpInsideElanPage.g.cs
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpInsidePopularQuestionPage.g.cs
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPage.g.cs
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.g.cs
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\BiznesLoginPage.g.cs
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.g.cs
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.g.cs
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.g.cs
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.g.cs
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.cache
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.lref
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.baml
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.baml
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.baml
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.baml
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.baml
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpInsideElanPage.baml
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpInsidePopularQuestionPage.baml
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPage.baml
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.baml
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\BiznesLoginPage.baml
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.baml
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.baml
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.baml
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.baml
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.g.resources
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfoInputs.cache
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfo.cs
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CoreCompileInputs.cache
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CopyComplete
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\refint\Turbo.az Desktop App.dll
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.genruntimeconfig.cache
+C:\Users\aminn\Desktop\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ref\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.exe
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.deps.json
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.runtimeconfig.json
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ResourceDictionary.baml
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.g.cs
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpInsideElanPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpInsidePopularQuestionPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\BiznesLoginPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.cache
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.lref
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.baml
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.baml
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.baml
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.baml
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.baml
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpInsideElanPage.baml
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpInsidePopularQuestionPage.baml
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPage.baml
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.baml
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\BiznesLoginPage.baml
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.baml
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.baml
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.baml
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.baml
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.g.resources
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfo.cs
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CopyComplete
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\refint\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.genruntimeconfig.cache
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ref\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin14\Turbo.azNihad13\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ComboboxResource.baml
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.exe
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.deps.json
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.runtimeconfig.json
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ComboboxResource.baml
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ResourceDictionary.baml
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.g.cs
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.g.cs
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.g.cs
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.g.cs
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsideElanPage.g.cs
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsidePopularQuestionPage.g.cs
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpPage.g.cs
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.g.cs
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\BiznesLoginPage.g.cs
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.g.cs
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.g.cs
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.g.cs
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.g.cs
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.cache
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.lref
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.baml
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.baml
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.baml
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.baml
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.baml
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsideElanPage.baml
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsidePopularQuestionPage.baml
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpPage.baml
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.baml
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\BiznesLoginPage.baml
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.baml
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.baml
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.baml
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.baml
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.g.resources
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfo.cs
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CopyComplete
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\refint\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.genruntimeconfig.cache
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ref\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\SelectedVehiclePages\SelectedVehicleView.g.cs
+C:\Users\User\Desktop\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\SelectedVehiclePages\SelectedVehicleView.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.exe
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.deps.json
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.runtimeconfig.json
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.AssemblyReference.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ComboboxResource.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ResourceDictionary.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsideElanPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsidePopularQuestionPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\BiznesLoginPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\SelectedVehiclePages\SelectedVehicleView.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.lref
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsideElanPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsidePopularQuestionPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\BiznesLoginPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\SelectedVehiclePages\SelectedVehicleView.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.g.resources
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfoInputs.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfo.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CoreCompileInputs.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CopyComplete
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\refint\Turbo.az Desktop App.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.genruntimeconfig.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ref\Turbo.az Desktop App.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ListviewScrollResource.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\TextboxResource.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.exe
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.deps.json
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.runtimeconfig.json
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ComboboxResource.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ListviewScrollResource.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ResourceDictionary.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\TextboxResource.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.g.cs
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsideElanPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsidePopularQuestionPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\BiznesLoginPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\SelectedVehiclePages\SelectedVehicleView.g.cs
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.cache
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.lref
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsideElanPage.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsidePopularQuestionPage.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpPage.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\BiznesLoginPage.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\SelectedVehiclePages\SelectedVehicleView.baml
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.g.resources
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfo.cs
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CopyComplete
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\refint\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.genruntimeconfig.cache
+C:\Users\User\Desktop\Turbo.azAmin18\Turbo.azNihad16\Turbo.azNihad15\Turbo.azAmin12\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ref\Turbo.az Desktop App.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.exe
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.deps.json
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.runtimeconfig.json
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.AssemblyReference.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ComboboxResource.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ListviewScrollResource.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ResourceDictionary.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\TextboxResource.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsideElanPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsidePopularQuestionPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\SelectedVehiclePages\SelectedVehicleView.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.lref
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsideElanPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsidePopularQuestionPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\SelectedVehiclePages\SelectedVehicleView.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.g.resources
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfoInputs.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfo.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CoreCompileInputs.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CopyComplete
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\refint\Turbo.az Desktop App.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.genruntimeconfig.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ref\Turbo.az Desktop App.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\WaitingVehiclePage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\WaitingVehiclePage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\SelectedWaitingView.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\SelectedWaitingView.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\RemovedVehiclesView.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\RemovedVehiclesView.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.exe
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.deps.json
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.runtimeconfig.json
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.AssemblyReference.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ComboboxResource.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ListviewScrollResource.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ResourceDictionary.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\TextboxResource.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\RemovedVehiclesView.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\SelectedWaitingView.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\WaitingVehiclePage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsideElanPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsidePopularQuestionPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\SelectedVehiclePages\SelectedVehicleView.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.lref
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\RemovedVehiclesView.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\SelectedWaitingView.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\WaitingVehiclePage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsideElanPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsidePopularQuestionPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\SelectedVehiclePages\SelectedVehicleView.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.g.resources
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfoInputs.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfo.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CoreCompileInputs.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CopyComplete
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\refint\Turbo.az Desktop App.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.genruntimeconfig.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ref\Turbo.az Desktop App.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerPage.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.exe
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.deps.json
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.runtimeconfig.json
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ComboboxResource.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ListviewScrollResource.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ResourceDictionary.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\TextboxResource.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.g.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\RemovedVehiclesView.g.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\SelectedWaitingView.g.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\WaitingVehiclePage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsideElanPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsidePopularQuestionPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\SelectedVehiclePages\SelectedVehicleView.g.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.cache
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.lref
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\RemovedVehiclesView.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\SelectedWaitingView.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\WaitingVehiclePage.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsideElanPage.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsidePopularQuestionPage.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpPage.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerPage.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\SelectedVehiclePages\SelectedVehicleView.baml
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.g.resources
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfo.cs
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CopyComplete
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\refint\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.genruntimeconfig.cache
+C:\Users\User\Desktop\Turbo.azAmin21\Turbo.azAmin20\Turbo.azNihad19\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ref\Turbo.az Desktop App.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.exe
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.deps.json
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.runtimeconfig.json
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.AssemblyReference.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ComboboxResource.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ListviewScrollResource.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ResourceDictionary.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\TextboxResource.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\RemovedVehiclesView.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\SelectedWaitingView.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\WaitingVehiclePage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsideElanPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsidePopularQuestionPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\SelectedVehiclePages\SelectedVehicleView.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.lref
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\RemovedVehiclesView.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\SelectedWaitingView.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\WaitingVehiclePage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsideElanPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsidePopularQuestionPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\SelectedVehiclePages\SelectedVehicleView.baml
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.g.resources
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfoInputs.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfo.cs
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CoreCompileInputs.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CopyComplete
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\refint\Turbo.az Desktop App.dll
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.genruntimeconfig.cache
+C:\Users\aminb\OneDrive\Desktop\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ref\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.exe
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.deps.json
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.runtimeconfig.json
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ComboboxResource.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ListviewScrollResource.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\ResourceDictionary.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ResourceDictionaries\TextboxResource.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.g.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\RemovedVehiclesView.g.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\SelectedWaitingView.g.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\WaitingVehiclePage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsideElanPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsidePopularQuestionPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.g.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\SelectedVehiclePages\SelectedVehicleView.g.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.cache
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App_MarkupCompile.lref
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\App.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\MainwindowView.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPage.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\RemovedVehiclesView.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\SelectedWaitingView.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\AdminPages\WaitingVehiclePage.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\CreateNewVehiclePage.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\EmptyPage.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsideElanPage.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpInsidePopularQuestionPage.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\HelpPages\HelpPage.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\AdminLoginPage.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserLoginPage.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\LoginPage\UserVerificationPage.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerErrorPage.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SecilmislerPage.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\Pages\SignInPage.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Views\SelectedVehiclePages\SelectedVehicleView.baml
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.g.resources
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.AssemblyInfo.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.csproj.CopyComplete
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\refint\Turbo.az Desktop App.dll
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.pdb
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\Turbo.az Desktop App.genruntimeconfig.cache
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\ref\Turbo.az Desktop App.dll

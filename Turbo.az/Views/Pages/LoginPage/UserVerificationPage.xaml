@@ -1,0 +1,25 @@
+﻿<Page x:Class="Turbo.az_Desktop_App.Views.Pages.LoginPage.UserVerificationPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Turbo.az_Desktop_App.Views.Pages.LoginPage"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="UserVerificationPage">
+
+    <Grid Background="#f1f3f7">
+        <Grid Background="White" Width="350" Height="230">
+            <Button Style="{StaticResource  LeftButton}" Width="20" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="17,23,0,0" Command="{Binding BackCommand}">
+                <Image Source="/StaticFiles/WindowImages/leftSignBlack.png"/>
+            </Button>
+            <TextBlock Text="{Binding girisText}" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="17"  FontWeight="DemiBold" Margin="0,20,0,0"/>
+            <TextBlock Text="{Binding informationText, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="11"  FontWeight="DemiBold" Margin="42,50,0,0" Foreground="Gray"/>
+            <TextBlock Text="{Binding kodText}" Foreground="#212c3a" FontSize="15" FontWeight="DemiBold" Margin="42,65,0,0" Height="40" VerticalAlignment="Top" />
+            <TextBox Width="270" Text="{Binding verificationText}" Height="27" MaxLength="6" FontWeight="DemiBold" HorizontalAlignment="Center" Margin="0,87,0,0" BorderThickness="0,0,0,1" VerticalAlignment="Top"
+                     VerticalContentAlignment="Bottom" FontSize="16" />
+            <Button Content="{Binding buttonText}" Margin="0,155,0,0" Style="{StaticResource LoginPageButtons}" Command="{Binding VerifiyCommand}"  IsEnabled="{Binding enableText}"/>
+            
+        </Grid>
+    </Grid>
+</Page>

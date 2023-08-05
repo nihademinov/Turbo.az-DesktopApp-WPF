@@ -1,0 +1,191 @@
+[
+  {
+    "Marka": "Abarth",
+    "Models": [
+      "595"
+    ]
+  },
+  {
+    "Marka": "Acura",
+    "Models": [
+      "TSX"
+    ]
+  },
+  {
+    "Marka": "Alfa Romeo",
+    "Models": [
+      "159",
+      "4C",
+      "GTV",
+      "Giulia",
+      "Stelvio"
+    ]
+  },
+  {
+    "Marka": "Aprilia",
+    "Models": [
+      "RS 125",
+      "RS 600",
+      "RSV4",
+      "SR 300 MAX",
+      "Tuono 660"
+    ]
+  },
+  {
+    "Marka": "Audi",
+    "Models": [
+      "100",
+      "80",
+      "A1",
+      "A3",
+      "A4",
+      "A5",
+      "A6",
+      "Allroad",
+      "A7",
+      "A8",
+      "Q2",
+      "Q3",
+      "Q5",
+      "Q7",
+      "Q8",
+      "RS3",
+      "RS4",
+      "RS7",
+      "S4",
+      "S5",
+      "S6",
+      "S8",
+      "TT"
+    ]
+  },
+  {
+    "Marka": "Bentley",
+    "Models": [
+      "Bentayga",
+      "Continental",
+      "COntinental GT",
+      "Flying Spur"
+    ]
+  },
+  {
+    "Marka": "BMW",
+    "Models": [
+      "116",
+      "118",
+      "120",
+      "125",
+      "218",
+      "220",
+      "228",
+      "316",
+      "318",
+      "320",
+      "321",
+      "323",
+      "324",
+      "325",
+      "328",
+      "330",
+      "330e",
+      "335",
+      "420",
+      "428",
+      "430",
+      "435",
+      "518",
+      "520",
+      "520e",
+      "523",
+      "525",
+      "528",
+      "530",
+      "535",
+      "540",
+      "545",
+      "630",
+      "640",
+      "650",
+      "725",
+      "728",
+      "730",
+      "735",
+      "740",
+      "740Le",
+      "745",
+      "750",
+      "760",
+      "840",
+      "S 1000 RR",
+      "R 1200 GS",
+      "M3",
+      "M340",
+      "M4",
+      "M5",
+      "M6",
+      "M8",
+      "X1",
+      "X2",
+      "X3",
+      "X4",
+      "X5",
+      "X6",
+      "X7"
+    ]
+  },
+  {
+    "Marka": "BYD",
+    "Models": [
+      "F3",
+      "G3",
+      "Han",
+      "Qin PLus",
+      "Seal",
+      "Song Plus",
+      "Tang",
+      "Yuan Plus"
+    ]
+  },
+  {
+    "Marka": "Cadillac",
+    "Models": [
+      "ATS",
+      "BLS",
+      "CT6",
+      "CTS",
+      "DTS",
+      "Escalade",
+      "SRX",
+      "XTS"
+    ]
+  },
+  {
+    "Marka": "Changan",
+    "Models": [
+      "Alsvin",
+      "Benni",
+      "CM-8",
+      "CS 15",
+      "CS 35",
+      "Eado",
+      "F 70",
+      "Honor"
+    ]
+  },
+  {
+    "Marka": "Chevrolet",
+    "Models": [
+      "Aveo",
+      "Blazer",
+      "Camaro",
+      "Colorado",
+      "Cruze",
+      "Damas",
+      "Epicia",
+      "Lacetti",
+      "Malibu",
+      "Nexia",
+      "Volt"
+    ]
+  }
+]

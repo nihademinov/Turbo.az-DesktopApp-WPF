@@ -1,0 +1,20 @@
+﻿Turbo.az Desktop App
+
+
+winexe
+C#
+.cs
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\obj\Debug\net6.0-windows\
+Turbo.az_Desktop_App
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\User\Desktop\Turbo.azAmin23\Turbo.azNihad22\Turbo.az\Turbo.az\App.xaml
+21-2002261354
+
+46-605149228
+195-1702245752
+ResourceDictionaries\ComboboxResource.xaml;ResourceDictionaries\ListviewScrollResource.xaml;ResourceDictionaries\ResourceDictionary.xaml;ResourceDictionaries\TextboxResource.xaml;Views\MainwindowView.xaml;Views\Pages\AdminPage.xaml;Views\Pages\AdminPages\RemovedVehiclesView.xaml;Views\Pages\AdminPages\SelectedWaitingView.xaml;Views\Pages\AdminPages\WaitingVehiclePage.xaml;Views\Pages\CreateNewVehiclePage.xaml;Views\Pages\EmptyPage.xaml;Views\Pages\HelpPages\HelpInsideElanPage.xaml;Views\Pages\HelpPages\HelpInsidePopularQuestionPage.xaml;Views\Pages\HelpPages\HelpPage.xaml;Views\Pages\LoginPage\AdminLoginPage.xaml;Views\Pages\LoginPage\UserLoginPage.xaml;Views\Pages\LoginPage\UserVerificationPage.xaml;Views\Pages\SecilmislerErrorPage.xaml;Views\Pages\SecilmislerPage.xaml;Views\Pages\SignInPage.xaml;Views\SelectedVehiclePages\SelectedVehicleView.xaml;
+
+False
+

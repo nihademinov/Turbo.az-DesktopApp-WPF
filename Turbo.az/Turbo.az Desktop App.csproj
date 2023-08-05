@@ -1,0 +1,163 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="StaticFiles\PageImages\addCarIcon.png" />
+    <None Remove="StaticFiles\PageImages\backWhite.png" />
+    <None Remove="StaticFiles\PageImages\cloudError.png" />
+    <None Remove="StaticFiles\PageImages\databaseError.png" />
+    <None Remove="StaticFiles\PageImages\databaseErrorBlack.png" />
+    <None Remove="StaticFiles\PageImages\exitBlack.png" />
+    <None Remove="StaticFiles\PageImages\exitGray.png" />
+    <None Remove="StaticFiles\PageImages\GrayHeartVehicleBtn.png" />
+    <None Remove="StaticFiles\PageImages\heartIconEmpty.png" />
+    <None Remove="StaticFiles\PageImages\helpImage.png" />
+    <None Remove="StaticFiles\PageImages\RedHeartVehicleBtn.png" />
+    <None Remove="StaticFiles\PageImages\reklamVehiclePage.jpg" />
+    <None Remove="StaticFiles\PageImages\texpassport1.jpg" />
+    <None Remove="StaticFiles\PageImages\texpassport2.jpg" />
+    <None Remove="StaticFiles\WindowImages\heartGray.png" />
+    <None Remove="StaticFiles\WindowImages\heartRed.png" />
+    <None Remove="StaticFiles\WindowImages\kapitalReklamLeft.png" />
+    <None Remove="StaticFiles\WindowImages\kapitalReklamRight.png" />
+    <None Remove="StaticFiles\WindowImages\kontaktReklamLeft.png" />
+    <None Remove="StaticFiles\WindowImages\kontaktReklamRight.png" />
+    <None Remove="StaticFiles\WindowImages\leftSignBlack.png" />
+    <None Remove="StaticFiles\WindowImages\leftSignRed.png" />
+    <None Remove="StaticFiles\WindowImages\plus.png" />
+    <None Remove="StaticFiles\WindowImages\plus_2.png" />
+    <None Remove="StaticFiles\WindowImages\rightSignBlack.png" />
+    <None Remove="StaticFiles\WindowImages\rightSignRed.png" />
+    <None Remove="StaticFiles\WindowImages\turbo.azIcon.png" />
+    <None Remove="StaticFiles\WindowImages\turboazReklamLeft.png" />
+    <None Remove="StaticFiles\WindowImages\turboazReklamRight.png" />
+    <None Remove="StaticFiles\WindowImages\umicoReklam.png" />
+    <None Remove="StaticFiles\WindowImages\userGray.png" />
+    <None Remove="StaticFiles\WindowImages\userRed.png" />
+    <None Remove="StaticFiles\WindowImages\wolkswagenReklam.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="StaticFiles\WindowImages\turbo.azIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="StaticFiles\PageImages\addCarIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\PageImages\backWhite.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\PageImages\cloudError.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\PageImages\databaseError.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\PageImages\databaseErrorBlack.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\PageImages\exitBlack.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\PageImages\exitGray.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\PageImages\GrayHeartVehicleBtn.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\PageImages\heartIconEmpty.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\PageImages\helpImage.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\PageImages\RedHeartVehicleBtn.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\PageImages\reklamVehiclePage.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\PageImages\texpassport1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\PageImages\texpassport2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\WindowImages\wolkswagenReklam.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\WindowImages\heartGray.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\WindowImages\heartRed.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\WindowImages\kapitalReklamLeft.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\WindowImages\kapitalReklamRight.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\WindowImages\kontaktReklamLeft.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\WindowImages\kontaktReklamRight.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\WindowImages\leftSignBlack.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\WindowImages\leftSignRed.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\WindowImages\plus.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\WindowImages\plus_2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\WindowImages\rightSignBlack.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\WindowImages\rightSignRed.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\WindowImages\turboazReklamLeft.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\WindowImages\turboazReklamRight.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\WindowImages\umicoReklam.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\WindowImages\userGray.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="StaticFiles\WindowImages\userRed.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="StaticFiles\Logos\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>
